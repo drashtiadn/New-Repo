@@ -1,0 +1,10 @@
+python
+python-dotenv
+langchain
+langchain-community
+langchain-anthropic
+langchain-google-genai
+chromadb
+langchainhub 
+wikipedia
+tavily-python
